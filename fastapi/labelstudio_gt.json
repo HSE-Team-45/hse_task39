@@ -1,0 +1,952 @@
+[
+  {
+    "data": {
+      "image": "page_001.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 10.0,
+              "y": 15.0,
+              "width": 80.0,
+              "height": 8.0,
+              "text": "РЕЗУЛЬТАТЫ ЛАБОРАТОРНЫХ ИССЛЕДОВАНИЙ (биохимия крови)",
+              "labels": ["table_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 30.0,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Гемоглобин общий 142 г/л",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 33.8,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Количество эритроцитов 5.0 10^12/л",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 37.6,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Гематокрит 41 %",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 41.4,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Средний объем эритроцита 83 фл",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 45.2,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Среднее содержание гемоглобина в эритроците 28 пг",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 49.0,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Средняя концентрация гемоглобина в эритроците 340 г/л",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 52.8,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Ширина распределения эритроцитов по объему 13.5 %",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 56.6,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Тромбоциты 250 10^9/л",
+              "labels": ["table_row"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 60.4,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Лейкоциты 7.8 10^9/л",
+              "labels": ["table_row"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_002.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 15.0,
+              "y": 20.0,
+              "width": 70.0,
+              "height": 6.0,
+              "text": "БИОХИМИЧЕСКИЙ АНАЛИЗ КРОВИ",
+              "labels": ["header"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 30.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Глюкоза 5.2 ммоль/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 34.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Мочевина 6.5 ммоль/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 38.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Креатинин 88 мкмоль/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 42.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Общий белок 72 г/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 46.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Аланинаминотрансфераза (АЛТ) 25 Ед/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 50.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Аспартатаминотрансфераза (АСТ) 28 Ед/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 54.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Общий билирубин 12.5 мкмоль/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 58.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Прямой билирубин 3.2 мкмоль/л",
+              "labels": ["text"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 62.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Холестерин общий 5.0 ммоль/л",
+              "labels": ["text"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_003.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 5.0,
+              "y": 10.0,
+              "width": 90.0,
+              "height": 5.0,
+              "text": "ГОСПИТАЛИЗАЦИОННЫЙ ЛИСТ",
+              "labels": ["document_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 18.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "ФИО пациента: Иванов Иван Иванович",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 22.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Дата рождения: 15.03.1985",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 26.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Возраст: 39 лет",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 30.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Пол: мужской",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 34.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Дата поступления: 10.10.2024",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 38.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Дата выписки: 17.10.2024",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 42.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Отделение: терапия",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 46.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Палата: 314",
+              "labels": ["field_label"]
+            }
+          },
+          {
+            "value": {
+              "x": 5.0,
+              "y": 50.0,
+              "width": 45.0,
+              "height": 3.0,
+              "text": "Диагноз: Острый бронхит",
+              "labels": ["field_label"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_004.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 20.0,
+              "y": 15.0,
+              "width": 60.0,
+              "height": 7.0,
+              "text": "НАЗНАЧЕНИЯ И ЛЕЧЕНИЕ",
+              "labels": ["section_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 25.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "1. Амоксициллин 500 мг 3 раза в день",
+              "labels": ["medication"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 29.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "2. Амброксол 30 мг 3 раза в день",
+              "labels": ["medication"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 33.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "3. Парацетамол 500 мг при температуре",
+              "labels": ["medication"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 37.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "4. Обильное теплое питье",
+              "labels": ["recommendation"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 41.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "5. Постельный режим 5 дней",
+              "labels": ["recommendation"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 45.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Дата следующего приема: 25.10.2024",
+              "labels": ["date"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 49.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Врач: Петрова А.С.",
+              "labels": ["signature"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 53.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Подпись: ____________",
+              "labels": ["signature_field"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_005.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 25.0,
+              "y": 12.0,
+              "width": 50.0,
+              "height": 6.0,
+              "text": "АНАМНЕЗ ЖИЗНИ",
+              "labels": ["subsection_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 20.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Наследственность: не отягощена",
+              "labels": ["history_item"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 24.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Вредные привычки: не курит",
+              "labels": ["history_item"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 28.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Аллергия: на пенициллин",
+              "labels": ["history_item"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 32.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Хронические заболевания: гипертония",
+              "labels": ["history_item"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 36.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Операции: аппендэктомия 2010 г.",
+              "labels": ["history_item"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 40.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Травмы: перелом руки 2015 г.",
+              "labels": ["history_item"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_006.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 10.0,
+              "y": 10.0,
+              "width": 80.0,
+              "height": 5.0,
+              "text": "ИНФОРМАЦИОННОЕ СОГЛАСИЕ",
+              "labels": ["legal_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 18.0,
+              "width": 80.0,
+              "height": 10.0,
+              "text": "Я, Иванов Иван Иванович, даю согласие на обработку персональных данных и медицинское вмешательство в соответствии с ФЗ-323.",
+              "labels": ["legal_text"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 30.0,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Дата: 10.10.2024",
+              "labels": ["date_field"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 34.0,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Подпись пациента: ____________",
+              "labels": ["signature_line"]
+            }
+          },
+          {
+            "value": {
+              "x": 10.0,
+              "y": 38.0,
+              "width": 80.0,
+              "height": 3.0,
+              "text": "Время: 14:30",
+              "labels": ["time_field"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_007.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 30.0,
+              "y": 15.0,
+              "width": 40.0,
+              "height": 4.0,
+              "text": "ЛИСТ НАЗНАЧЕНИЙ",
+              "labels": ["form_title"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 22.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Пациент: Иванов И.И.",
+              "labels": ["patient_info"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 26.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Карта №: 123456",
+              "labels": ["document_id"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 30.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Отделение: терапия",
+              "labels": ["department"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 34.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Палата: 314",
+              "labels": ["room"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 38.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Дата: 12.10.2024",
+              "labels": ["date_stamp"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 42.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Время: 09:00",
+              "labels": ["time_stamp"]
+            }
+          },
+          {
+            "value": {
+              "x": 30.0,
+              "y": 46.0,
+              "width": 40.0,
+              "height": 3.0,
+              "text": "Врач: Петрова А.С.",
+              "labels": ["doctor_info"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_008.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 20.0,
+              "y": 10.0,
+              "width": 60.0,
+              "height": 4.0,
+              "text": "ЭКГ РЕЗУЛЬТАТЫ",
+              "labels": ["diagnostic_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 16.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Ритм: синусовый регулярный",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 20.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "ЧСС: 72 уд/мин",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 24.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Интервал PQ: 0.16 с",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 28.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Интервал QRS: 0.08 с",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 32.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Интервал QT: 0.38 с",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 36.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Ось сердца: нормальная",
+              "labels": ["ecg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 40.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Заключение: нормальная ЭКГ",
+              "labels": ["conclusion"]
+            }
+          },
+          {
+            "value": {
+              "x": 20.0,
+              "y": 44.0,
+              "width": 60.0,
+              "height": 3.0,
+              "text": "Дата исследования: 11.10.2024",
+              "labels": ["study_date"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_009.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 15.0,
+              "y": 5.0,
+              "width": 70.0,
+              "height": 4.0,
+              "text": "УЛЬТРАЗВУКОВОЕ ИССЛЕДОВАНИЕ",
+              "labels": ["usg_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 12.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Орган: печень",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 16.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Размеры: в норме",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 20.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Контуры: ровные",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 24.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Эхогенность: нормальная",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 28.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Сосудистый рисунок: не изменен",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 32.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Желчный пузырь: без особенностей",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 36.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Поджелудочная железа: не увеличена",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 40.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Селезенка: нормальных размеров",
+              "labels": ["usg_parameter"]
+            }
+          },
+          {
+            "value": {
+              "x": 15.0,
+              "y": 44.0,
+              "width": 70.0,
+              "height": 3.0,
+              "text": "Заключение: патологии не выявлено",
+              "labels": ["usg_conclusion"]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "data": {
+      "image": "page_010.png"
+    },
+    "annotations": [
+      {
+        "result": [
+          {
+            "value": {
+              "x": 25.0,
+              "y": 8.0,
+              "width": 50.0,
+              "height": 4.0,
+              "text": "ВЫПИСНОЙ ЭПИКРИЗ",
+              "labels": ["discharge_header"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 15.0,
+              "width": 50.0,
+              "height": 10.0,
+              "text": "Пациент выписан в удовлетворительном состоянии. Рекомендовано: продолжить лечение амбулаторно, контроль через 7 дней.",
+              "labels": ["discharge_text"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 28.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Дата выписки: 17.10.2024",
+              "labels": ["discharge_date"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 32.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Лечащий врач: Петрова А.С.",
+              "labels": ["discharge_doctor"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 36.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Подпись: ____________",
+              "labels": ["discharge_signature"]
+            }
+          },
+          {
+            "value": {
+              "x": 25.0,
+              "y": 40.0,
+              "width": 50.0,
+              "height": 3.0,
+              "text": "Печать: [МЕСТО ДЛЯ ПЕЧАТИ]",
+              "labels": ["stamp_placeholder"]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
